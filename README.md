@@ -1,15 +1,15 @@
-# Video-Games-Analytics
+# Video Games Analytics
 Ironhack Data Analytics Bootcamp Mini Project - SQL: From Data to Insight
 
 📝 Project README Outline: Video Game Analytics
 This structure follows the project requirements for documenting the project's purpose and scope.
 1. Project Title and Overview
 
-Title
-Video Game Market Strategy Analysis: Optimizing Genre and Platform for ROI
-Goal
-To serve as an analyst for a new game studio, researching market trends to inform the optimal platform, genre, and quality benchmark for a debut title.
-Deliverable
+Title: 
+Video Game Market Strategy Analysis: Optimizing Genre and Platform for ROI;
+Goal: 
+To serve as an analyst for a new game studio, researching market trends to inform the optimal platform, genre, and quality benchmark for a debut title;
+Deliverable:
 A comprehensive data story, from acquisition and database design to SQL-driven insights and final Python visualizations, presented in a Jupyter Notebook.
 
 
@@ -25,14 +25,14 @@ Hypothesis 2 (Regional Profitability & Investment):
 3. Data Sources and Acquisition
 This section meets the requirement of using a minimum of two distinct sources.
 
-Source
-Data Type
-Purpose in Project
-Source 1 (Primary)
-CSV (Kaggle)
+Source;
+Data Type;
+Purpose in Project;
+Source 1 (Primary):
+CSV (Kaggle):
 Core dataset providing Sales (Regional/Global), Genre, Platform, Publisher, Developer, Critic Score, and User Score.
-Source 2 (Secondary/Enrichment)
-API or Web Scraping (e.g., Giant Bomb)
+Source 2 (Secondary/Enrichment):
+API or Web Scraping (e.g., Giant Bomb):
 To enrich the Publishers and Developers tables with additional data, such as Founding Year or Headquarters Location.
 
 
