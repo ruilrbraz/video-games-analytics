@@ -5,12 +5,11 @@ Ironhack Data Analytics Bootcamp Mini Project - SQL: From Data to Insight
 This structure follows the project requirements for documenting the project's purpose and scope.
 1. Project Title and Overview
 
-Title: 
-Video Game Market Strategy Analysis: Optimizing Genre and Platform for ROI;
-Goal: 
-To serve as an analyst for a new game studio, researching market trends to inform the optimal platform, genre, and quality benchmark for a debut title;
-Deliverable:
-A comprehensive data story, from acquisition and database design to SQL-driven insights and final Python visualizations, presented in a Jupyter Notebook.
+Title: Video Game Market Strategy Analysis: Optimizing Genre and Platform for ROI;
+
+Goal: To serve as an analyst for a new game studio, researching market trends to inform the optimal platform, genre, and quality benchmark for a debut title;
+
+Deliverable: A comprehensive data story, from acquisition and database design to SQL-driven insights and final Python visualizations, presented in a Jupyter Notebook.
 
 
 2. Research Objectives (Business Challenge & Hypotheses)
@@ -28,12 +27,10 @@ This section meets the requirement of using a minimum of two distinct sources.
 Source;
 Data Type;
 Purpose in Project;
-Source 1 (Primary):
-CSV (Kaggle):
-Core dataset providing Sales (Regional/Global), Genre, Platform, Publisher, Developer, Critic Score, and User Score.
-Source 2 (Secondary/Enrichment):
-API or Web Scraping (e.g., Giant Bomb):
-To enrich the Publishers and Developers tables with additional data, such as Founding Year or Headquarters Location.
+
+Source 1 (Primary): CSV (Kaggle): Core dataset providing Sales (Regional/Global), Genre, Platform, Publisher, Developer, Critic Score, and User Score.
+
+Source 2 (Secondary/Enrichment): API or Web Scraping (e.g., Giant Bomb): To enrich the Publishers and Developers tables with additional data, such as Founding Year or Headquarters Location.
 
 
 4. Database Structure Plan (ERD Concept)
