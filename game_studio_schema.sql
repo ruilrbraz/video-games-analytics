@@ -63,3 +63,5 @@ CREATE TABLE Games (
 
 -- 5. Optional: Create an index to speed up querying by name, as this will be common.
 CREATE INDEX idx_game_name ON Games(game_name);
+
+--
