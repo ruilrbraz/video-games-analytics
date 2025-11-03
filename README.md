@@ -11,7 +11,7 @@ This repository contains the complete data pipeline, database structure, and cor
 * **Quality vs. Volume:** The **Sports** genre demands a higher average critic score (**74**) for success than the highest-selling **Action** genre (**68**).  
 * **Regional Strategy:** The **Role-Playing** genre shows an overwhelming concentration of sales in the **Japan** market (over **38%** of global sales), confirming the strategic value of localization investment for that genre.
 
-The full analysis and visualizations are available in the final presentation: [Link to Final Presentation (Gamma)](https://www.google.com/search?q=https://gamma.app/docs/Optimizing-Genre-and-Platform-for-ROI-bs1wtmuznhvmyt8)
+The full analysis and visualizations are available in the final presentation: [Link to Final Presentation (Gamma)](https://gamma.app/docs/Optimizing-Genre-and-Platform-for-ROI-bs1wtmuznhvmyt8)
 
 ## **Research Objectives & Hypotheses**
 
