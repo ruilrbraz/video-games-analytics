@@ -1,4 +1,4 @@
-# **Video Game Market Strategy Analysis: Optimizing Genre and Platform for ROI**
+# **Video Games Sales Analysis: Optimizing Genre and Platform for ROI**
 
 This repository contains the complete data pipeline, database structure, and core analytical queries used to inform a new game studio's debut title strategy.
 
